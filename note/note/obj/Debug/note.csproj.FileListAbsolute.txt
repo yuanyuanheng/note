@@ -1,0 +1,9 @@
+D:\ShimVision\note\note\bin\Debug\note.exe.config
+D:\ShimVision\note\note\bin\Debug\note.exe
+D:\ShimVision\note\note\bin\Debug\note.pdb
+D:\ShimVision\note\note\obj\Debug\note.csprojResolveAssemblyReference.cache
+D:\ShimVision\note\note\obj\Debug\note.Note.resources
+D:\ShimVision\note\note\obj\Debug\note.Properties.Resources.resources
+D:\ShimVision\note\note\obj\Debug\note.csproj.GenerateResource.Cache
+D:\ShimVision\note\note\obj\Debug\note.exe
+D:\ShimVision\note\note\obj\Debug\note.pdb
